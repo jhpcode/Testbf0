@@ -1,0 +1,14 @@
+ body {margin:0px; background:#dcdee3; margin:0px; width:100%;} @media only screen and (min-width:1024px){#mobile,.mobile{display:none}}@media only screen and (max-width:1023px){#pc,.pc{display:none} #mobile,.mobile{display:block}}@media handheld{#pc,.pc{display:none} #mobile,.mobile{display:block}}
+/** RESPONSIVE STYLE **/
+@media only screen and (min-width:920px)
+{body {min-width: 990px; max-width: 1024px; margin: 0px auto 10px auto; padding:0px;text-align:left;}
+.mobile_content{display: none;}
+.pc_content{display: block; }
+.body_left{width: 65%;float:left; display:block; margin-left:0px; margin-right: 8px; margin-top: 3px; overflow: hidden;}
+.body_right{float:left; display:block; width: 34%;margin-top: 3px; overflow: hidden; }}
+@media only screen and (max-width:900px)
+{body {min-width: 98%; max-width: 100%; margin: 0 auto; border: 1px solid;padding:0px }
+.mobile_content{display: block; overflow: hidden; display: block}
+.pc_content{display: none;}}
+
+.arifn {background: #585858; color: #ebebeb; display: block; padding: 2px; border-left: 1px solid #404040; border-top: 2px solid #FFBB22; border-bottom: 1px solid #000000; padding-bottom: 4px;text-shadow:0 1px 0 #000000;} .active a:link {color:#fff;} .arifn a:visited {background-color:#000000;text-decoration:none;} .home {background: #585858; color: #fff; display: block; padding: 3px; border-left: 1px solid #000000; border-top: 2px solid #f75d59; padding-bottom: 4px;text-shadow:0 1px 0 #000000;} .figure { position: relative; max-width: 100%; } .figcaption {position: absolute; bottom: 0px; left: 10px; letter-spacing: -1px; color: white; background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.6); padding: 7px 10px 7px 10px; }

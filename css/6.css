@@ -1,0 +1,17 @@
+ .zoys{ background:#333333; color: #fff; font-weight: bold; border-bottom:3px solid #00aade; margin-top:3px; margin-left: 3px; margin-right:3px;
+padding-left:10px;padding-right: 10px;padding-top: 5px; padding-bottom: 5px;} .mfooter{border-top: 5px solid #00aade; background: #333;padding: 6px;color: #ccc;margin-right: -1px}
+.mfooter a {color: #eee} .mtb{border-top: 1px solid #444}
+.mtt{border-bottom: 1px solid #222;padding: 0px 5px 2px 5px}ul.mleft{width: 59%; float: left; list-style: none; padding-left:2px}
+ul.mright{width: 39%; float: left; list-style: none; padding-left: 2px}
+.mright li{padding: px}
+.mleft li{padding: px}
+.et {background: #333; color:
+white; height: 20px; margin-top:-30px; padding: 5px;font-weight:bold; opacity: 0.6; max-width:100px; text-align: center;}
+.sb {border-bottom: 1px #00aa00
+  solid; margin-top: 4px;} 
+
+ .naxxa{background:#ddd;} .block_header{background: #F5F5F5;}
+.header_logo{background: #eee;}
+.header_logo img{width:170px;; padding: 3px} .header_logo h1{color: #000;padding: 5px}
+.header_logo a:hover{color: #000;text-decoration: none;} .login_box{border: 1px solid #ddd; padding: 2px ; font-size: 12px; text-align:center; padding: 5px;} .topmenu {background-color: #ADDFFF; font-size: x-small; padding: 1px 2px 2px 2px; margin-bottom: 0px; border-bottom: 0px solid #a8b1bb; border-right: 1px solid #e1e4e8; border-left: 1px solid #e1e4e8; } .Tag {background-color: #C6DEFF; font-size: x-small; padding: 2px 4px 3px 4px; margin-bottom: 0px; border-bottom: 0px solid #a8b1bb; border-right: 1px solid #e1e4e8; border-left: 1px solid #e1e4e8; } 
+.srcbt {padding: 4px 10px; background-color: #25A1D8; color: #fff; border: 1px solid #25A1D8; font-weight: bold;}

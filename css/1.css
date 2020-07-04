@@ -1,0 +1,56 @@
+ .logo {color: #ffffff; background: #3399cc; background-repeat: no repeat; text-shadow: 1px 1px 3px #555; text-align: left; padding: 4px; font-size: 10px}
+
+.phdr {color: #fff; background: #3399cc ; background-repeat: no repeat; text-shadow: 0px 0px 0px #555; text-align: left; padding: 5px; font-weight: bold; block; border-bottom: 1px solid #ddd;}
+
+.nfooter2 {border-bottom: 1px solid #e5e5e5;color: #111; background: #f5f5f5;background-repeat: no repeat; text-align: left; padding: 8px; font-weight: none}
+
+.nfooter3 {color: #fff; background: #3399cc; background-repeat: no repeat; text-shadow: 1px 1px 3px #555; text-align: left; padding: 8px; font-weight: none}
+
+.mainblok {border: 1px solid #d1d1d1; padding: 0px; margin: 4px; margin-top: 5px; margin-bottom: 0px;}
+
+.mainbox {padding-left: 1px;padding-right: 1px; padding-bottom: 2px;border-radius: 5px} .fmainblok {border: 1px solid #d1d1d1; padding: 0px; margin: 4px; margin-top: 5px; margin-bottom: 0px;}
+ 
+
+.lines { border-top: 1px solid #ddd}
+.lined { border-top: 1px dotted #ddd}
+.dot { border-bottom:1px dashed #fff; border-top: 1px dashed #ccc; margin-bottom: 3px; margin-top: 5px; color: #000; }
+.frame { background: #fff; padding: 1px; border: solid 1px #ddd; }
+
+.anavmenu {display: clear; background: #333;padding-left: 0px; padding-right: 0px; padding-top: 4px; padding-bottom: 4px; border-bottom: 2px solid red}
+.mtb {border-top: 1px solid #555}
+.mtt {border-bottom: 1px solid #111}
+.nav {padding: 1px; border-left: 1px solid #555; border-right: 1px solid #111;}
+.nav a{text-decoration: none; color: white; display: block; padding: 0px}
+.nav a:hover, a:focus {color: white; font-size: 15px;}
+
+.fcount {background-color: #3399cc; color: white;padding: 4px 12px;text-shadow: 1px 1px 3px #555;display:inline-block;}
+
+.tcount {background-color: #666; color: white; padding: 2px 7px; border: 1px solid #555}
+ .Nayanfullcss { background-color: #f5f5f5 ; border-bottom: 2px solid #fff; color: #000000; font-weight: bold; box-shadow: 0 2px 0 #f5f5f5; padding: 1px; text-shadow: 1px 1px 1px #fff; } 
+.Nayan {background-color:#fff; border-left: 0px; border-right: 0px; border-bottom: 1px solid #d5d5d5; margin: 0; padding: 7px} .NNayan { background: #f7f7f8; padding: 5px; display: block; border-bottom: 1px solid #ddd; } .phdxt {color: black; background: #f5f5f5 ; border-bottom: 1px solid #ddd; color: #fffffff; font-weight: bold; box-shadow: 0 0px 0 #800080; padding: 5px; text-shadow: 0px 0px 0px #333; } .phdr:before {content:"";position: absolute;top:0;right: 0;border-width: 0 15px 15px 0;border-style:solid;border-color:#CCC #FFF} .nmenun {background-color:#fff; border-left: 0px; border-right: 0px; border-bottom: 1px solid #d5d5d5; margin: 0; padding: 7px}
+
+.menu2222 {background-color:#fff; border-left: 0px; border-right: 0px; border-bottom: 0px; margin: 0; padding: 7px}
+
+.dmenu22 {background: #5f5f5f; color: white; padding: 8px 5px; border-top: 1px solid #111; border-bottom: 1px solid #777; font-weight: bold}
+
+
+.mcount { background: #DB2127;color:white;
+-moz-border-radius: 15px;
+border-radius: 15px;
+padding: 3px;
+border: 1px solid #222;
+}
+
+.tcount { background: #DB2127;color:white;
+-moz-border-radius: 15px;
+border-radius: 15px;
+padding: 4px;
+border: 1px solid #222;
+}
+
+.ccount { background: #555;color:white;
+-moz-border-radius: 15px;
+border-radius: 15px;
+padding: 3px;
+border: 1px solid #222;
+}
